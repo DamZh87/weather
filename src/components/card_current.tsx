@@ -13,7 +13,7 @@ const CardCurrent = () => {
                     <p className="text-5xl font-semibold">31&deg;</p>
                 </div>
 
-                <img src="./img/sun.png" alt="" className="content-center h-full"/>
+                <img src="./img/sun.png" alt="" className="content-center h-36"/>
             </Card>
         </div>
     )}

@@ -2,7 +2,7 @@ import { Input} from "@/components/ui/input";
 
 const Search_input = () => {
     return (
-        <div className= "h-min">
+        <div className= "h-min ">
             <Input  placeholder="Search for cities" />
         </div>
     )}

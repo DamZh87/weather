@@ -5,7 +5,7 @@ import { IconClasses } from "../constants/icons-class.ts";
 const SideCard = () => {
     return (
       <div className="row-span-4   ">
-<Card className=" h-full justify-self-center">
+<Card className=" h-full justify-self-center hidden sm:block">
     <CardHeader>
     <div className="bg-bodybackground p-2 justify-self-center w-fit m-3 rounded-xl mb-10">
         <img src="./icons/wind.svg" alt="wind" />
